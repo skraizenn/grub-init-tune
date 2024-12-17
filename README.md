@@ -1,5 +1,5 @@
-# Tutorial 
-open the terminal, type `sudo nano /etc/default/grub`, open a new line and add `GRUB_INIT_TUNE="numbers-goes-here"`, save and close the text editor, you are ready now
+# Tutorial
+open the terminal, type `sudo nano /etc/default/grub`, open a new line and add `GRUB_INIT_TUNE="numbers-goes-here"`, change the text with given numbers, save and close the text editor, you are ready now
 
 # Remember to update grub before restarting (Also you need a pc speaker to play tunes)
 sudo update-grub //
