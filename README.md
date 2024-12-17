@@ -1,5 +1,5 @@
 # Remember to update grub before restarting (Also you need a pc speaker to play tunes)
-sudo update-grub
+sudo update-grub //
 sudo grub-mkconfig -O /boot/grub/grub.cfg
 
 # İzmir Marşı (İzmir March)
